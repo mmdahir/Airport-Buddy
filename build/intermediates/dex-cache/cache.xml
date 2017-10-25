@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/f613cbbf3426e7aa2ba536436b2a0c17587e2a9d/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_eade8dc6e2ab511b0994fdf0c9d799f79676eb25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/4a69aa80b3ed8efe38d18a9c763051ecfb981ed2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_5f9560799754052c90f9ee7db10e0affad4cb3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/5e3960cdf7d6fbc7e3892002044371d021843046/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_bcc1fe840a7eda000a498c806688d4f2f6ae7f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/16939cfe41f49910c5ee988985d2050ab0d70266/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_9963de6458a73c381949e6cb4ad2f6ddd7bc2b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/ce8bbf78ab8fb6b22ffeb882c6b4ac45397c5b12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_0ac11d1f24d710e8ac3d2a6f87140d42a8015372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/6e70180dfcd58372b78e9a8a462652d461831860/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_158acdbd83bda9a521b4f5808ba0bc31677dfc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/8a9dd46046f7d1c69a5986e48f11e7c6e6604323/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_3129b230ed356bd326405de42d27ead407839a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/59055a10e4f0a8e0b24799426a34027e32d95765/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_588194911bb27ecd89aac67bc00a95166619bf93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/b947f9d05ccc327508436b74cf0ea9ac500ca537/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_b8f719314254a37f82f86da4a6024aab3ef181a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/32119b2cba7040c249c952ce42b02b8149077e71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_8a09d3bd93aa989e119d90968feb9305af9866ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/10bc387e5d9e4df6561ba09b985b40eee3908290/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_5cd0b12f846a5edc13fcf616c99d967bc500cb11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/b6359b313a53bdf710b15b4a7b59c5912b967d01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_bb233dd45984630984a6e8877cd84e8363983b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/5ff74423c79982efd2d15ecbbec25bbd024d7065/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_5f0af933ee4fd66b5c37c67851f08ea18238fc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/d2d6f87addf58879c13ed5df195ad5d5c05d5ad9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_2503d1c475fa3ffc5f124c61a24b5aa2c6220d03.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e8d43002d666707a0fe34435ae7fb44d60ea5b4">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_003cf0edcc3cd2d9433b9edb5e40296a19b51c4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/2fb506aab8d6b94d72330ad2df195c7af213cd7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_8e2d2e57d82f2c482a985dc6d6ad9d783ea6c676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/1f4a6aed8dad1e2a6910baa073f46c098ee47d39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_6f21c626f6de0ea6d4abace3be940729c323db4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/d3e8d63217e1e3d7b54fafa6afc0a818cc05283b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_9a2eebcaa68aac994114116e6150b6bd504529ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/05ad9009e98376f7d96e2283f37074544a420b2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_fb3efeec55951bdf7a2eeb63a64099dc1996d27d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3fec93077f42d0b8be9a357a0d6b5a338ed7d1ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/229db74497b2d1b40b2cfae587586f0b265c8100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_39926b3eae49a5ed89054087ad3fe5a262ee269e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/e14522e8e8526013cbe1f52a6462a40c4b95d479/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_0bbb518b5d3e8330dbf8000582af81dd0041e4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/f613cbbf3426e7aa2ba536436b2a0c17587e2a9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_47134f52a068ae66e24884ac2109ef18b4886328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/2758ff07cbbdaadfdce830e325d89515d7a373b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_bd7f294b3cf9249e40fed5c37ba69818143619a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/5017b5bc8c366126792950fd7256b83ceb7a58ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_38a78c8f14a9171212ef10dfbfc2815e63d77b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/7c3817a81e49360abd9609240f3097593474bc7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_a2a86254868052ae2d9cf23cdbce5728f8024027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/f6d75dbba753234236965562967a8650bf2b3193/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_d37bb244bdbdd75d4ad7b99a23536cf2be7e3108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mustafdahir/.android/build-cache/f2cd821936184c78bf70b6d130442f5966d1d57e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/mustafdahir/AndroidStudioProjects/AirportBuddy/app/build/intermediates/pre-dexed/debug/classes_14c1132a4cacff2a823290bca0b30c8f05922cc9.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <group11.tcss450.uw.edu.airportbuddy.com.yildizkabaran.twittersplash.view.SplashView
+        xmlns:app="http://schemas.android.com/apk/java/group11.tcss450.uw.edu.airportbuddy/com.yildizkabaran.twittersplash"
+    	android:id="@+id/splash_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:icon="@drawable/ic_launcher"
+        app:duration="500"
+        app:holeFillColor="@color/colorPrimaryDark"
+        app:removeFromParentOnEnd="true" />
+
+
+
+</FrameLayout>

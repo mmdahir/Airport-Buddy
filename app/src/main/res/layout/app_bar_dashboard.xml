@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/colorPrimary">
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="group11.tcss450.uw.edu.airportbuddy.activities.DashboardActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimaryDark"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/dash_container"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="24dp"
+            android:background="?attr/colorPrimary"
+            tools:context="group11.tcss450.uw.edu.airportbuddy.DashActivity1"
+            android:animateLayoutChanges="false">
+
+            <FrameLayout
+                android:id="@+id/airport_layout"
+                android:layout_width="368dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@color/colorPrimaryDark">
+
+                <fragment
+                    android:id="@+id/airport_fragment"
+                    android:name="group11.tcss450.uw.edu.airportbuddy.dashboardFragments.AirportFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="98dp"
+                    tools:layout="@layout/fragment_airport" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/airport_input_layout"
+                android:layout_width="368dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:background="@color/colorPrimaryDark"
+                android:visibility="gone"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/airport_layout"
+                android:layout_marginTop="8dp">
+
+                <fragment
+                    android:id="@+id/airport_input_fragment"
+                    android:name="group11.tcss450.uw.edu.airportbuddy.dashboardFragments.AirportInputFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="185dp"
+                    tools:layout="@layout/fragment_airport_input" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/tsa_layout"
+                android:layout_width="368dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="8dp"
+                android:background="@color/colorPrimaryDark"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/airport_input_layout"
+                app:layout_constraintRight_toRightOf="parent"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp">
+
+                <fragment
+                    android:id="@+id/tsa_fragment"
+                    android:name="group11.tcss450.uw.edu.airportbuddy.dashboardFragments.TSAFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="98dp"
+                    tools:layout="@layout/fragment_tsa" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/boarding_layout"
+                android:layout_width="368dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/colorPrimaryDark"
+                app:layout_constraintRight_toRightOf="parent"
+
+                app:layout_constraintTop_toBottomOf="@+id/tsa_layout"
+                android:layout_marginLeft="8dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp">
+
+                <fragment
+                    android:id="@+id/boarding_fragment"
+                    android:name="group11.tcss450.uw.edu.airportbuddy.dashboardFragments.BoardingFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="98dp"
+                    tools:layout="@layout/fragment_boarding" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/boarding_input_layout"
+                android:layout_width="368dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimaryDark"
+                android:visibility="gone"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/boarding_layout"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="8dp">
+
+                <fragment
+                    android:id="@+id/boarding_input_fragment"
+                    android:name="group11.tcss450.uw.edu.airportbuddy.dashboardFragments.BoardingInputFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:layout="@layout/fragment_boarding_input" />
+
+            </FrameLayout>
+
+        </android.support.constraint.ConstraintLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_dashboard" />
+
+    <!--<android.support.design.widget.FloatingActionButton-->
+    <!--android:id="@+id/fab"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom|end"-->
+    <!--android:layout_margin="@dimen/fab_margin"-->
+    <!--app:srcCompat="@android:drawable/ic_dialog_email" />-->
+
+</android.support.design.widget.CoordinatorLayout>
+</ScrollView>

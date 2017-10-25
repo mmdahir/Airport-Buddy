@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Airport Buddy</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="hint_confirm_password">confirm password</string>
+    <string name="warning_empty_username">Username is empty</string>
+    <string name="warning_empty_password">Password is empty</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="screen_key">screen_key</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="info_key">info_key</string>
+    <string name="submit">Submit</string>
+    <string name="warning_mismatch_password">Passwords do not match</string>
+    <string name="invalid_username">Invalid Username</string>
+    <string name="short_username">Username must be at least 4 characters</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="password_reqs">Password must contain an uppercase, a digit and be at least 6 characters long</string>
+    <string name="username_already_exists">Username Already Exists</string>
+    <string name="successful_register">Successful Register</string>
+    <string name="current_location">Current Location</string>
+    <string name="airport_alias">Airport Alias</string>
+    <string name="invalid_request">Invalid Request to API</string>
+    <string name="valid">Connection to API, Request is Valid</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username_reqs">Username cannot contain special characters</string>
+    <string name="airport_code">Airport Code</string>
+    <string name="wait_time"></string>
+    <string name="airport_display">[Enter Airport Code]</string>
+    <string name="boarding_gate">[Enter Boarding Info]</string>
+    <string name="boarding_time"></string>
+    <string name="saved_boarding_time">Boarding Time</string>
+    <string name="airport_eta"></string>
+    <string name="logout">Logout</string>
+    <string name="confirm_logout">Are you sure you want to Logout?</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string-array name="hours">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="title_activity_appbar">appbar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="gateInnput">Gate #</string>
+    <string name="boardingTime">Boarding Time</string>
+    <string name="title_activity_dashboard">Airport Buddy</string>
+    <string name="user_preferences">User Preferences</string>
+     <string name="saved_username">Saved Username</string> 
+    <string name="saved_password">Saved Password</string>
+    <string name="earliness">Enter How Early You Would Like To Be At The Airport Before Your Flight: </string>
+     
+    <string name="hours">Hours: </string>
+    <string name="dashboard">Dashboard</string>
+    <string name="saved_flights">Saved Flights</string>
+    <string name="flight_number">Flight Number</string>
+    <string name="departure_time">Departure Time</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="departing_from">Departing From</string>
+    <string name="landing_at">Landing At</string>
+    <string name="add_flight">Add Flight</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="flight_added">Flight Added</string>
+    <string name="refresh">Refresh</string>
+    <string name="refreshed">Refreshed</string>
+    <string name="load">Load</string>
+    <string name="loaded_flight">loaded_flight</string>
+    <string name="gate_number">Gate Number</string>
+    <string name="use_current_location">Use Current Location</string>
+    <string name="tsa">TSA Wait Time</string>
+    <string name="remove">Remove</string>
+    <string name="confirm_delete">Are you sure you want to delete this flight?</string>
+    <string name="yes">Yes</string>
+    <string name="add_flight_boarding_date">Boarding Date</string>
+    <string name="add_flight_boarding_date_hint">Boarding Date</string>
+
+</resources>
